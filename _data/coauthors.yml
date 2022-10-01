@@ -1,34 +1,35 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Kumar":
+  - firstname: ["Dhruv", "D."]
+    url: https://ddhruvkr.github.io/
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Vechtomova":
+  - firstname: ["Olga", "O."]
+    url: https://ov-research.uwaterloo.ca/
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Cohen":
+  - firstname: ["Robin", "R."]
+    url: https://cs.uwaterloo.ca/~rcohen/
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Mou":
+  - firstname: ["Lili", "L."]
+    url: https://lili-mou.github.io/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Goyal":
+  - firstname: ["Pawan", "P."]
+    url: https://cse.iitkgp.ac.in/~pawang/
 
-"Przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Bahdanau":
+  - firstname: ["Dzmitry", "D."]
+    url: https://rizar.github.io/
 
-"Schrödinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"Rodriguez":
+  - firstname: ["Pau", "P."]
+    url: https://prlz77.github.io/about/
 
-"Lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"Laradji":
+  - firstname: ["Issam H."]
+    url: https://issamlaradji.github.io/
 
-"Planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Vazquez":
+  - firstname: ["David", "D."]
+    url: http://www.david-vazquez.com/

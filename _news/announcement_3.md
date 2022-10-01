@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2020-09-01
 inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+One paper on lyrics generation accepted at ISMIR's [NLP4MusA workshop](https://sites.google.com/view/nlp4musa){:target="\_blank"}.

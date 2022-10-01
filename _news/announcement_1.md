@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2021-01-11
 inline: true
 ---
 
-A simple inline announcement.
+My work on adaptive multimodal fusion methods accepted at [EACL 2021](https://2021.eacl.org/){:target="\_blank"} as a full paper!
