@@ -2,15 +2,16 @@
 layout: about
 title: about
 permalink: /
-description: Word Nerd. Sherlockologist. Vegan.
+description: Dev, Crypto, and Privacy Researcher. 
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>DC 3334</p>
-    <p>Univ. of Waterloo</p>
-    <p>Waterloo, Ontario, N2L 3G1</p>
+    <p> 589 Bernoulliborg (building 5161)</p>
+    <p>Nijenborgh 9</p>
+    <p>9747 AG Groningen</p>
+    <p>The Netherlands</p>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
